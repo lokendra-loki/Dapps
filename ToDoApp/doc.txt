@@ -1,0 +1,11 @@
+npm init -y
+npm i ethers
+npm i hardhat
+npm i chai
+npm i ethereum-waffle
+npm i @nomiclabs/hardhat-waffle
+npm i @nomiclabs/hardhat-ethers
+npm i dotenv
+npm i @openzeppelin/contracts
+
+npx hardhat    //initialize hardhat
